@@ -1,0 +1,275 @@
+[000:00:00:00.790.967.400][Info] About to reset the video context
+[000:00:00:00.798.151.600][Info] ---------------------------------
+[000:00:00:00.798.273.800][Info] Initializing D3D11...
+[000:00:00:00.798.309.700][Info] Available Video Adapters: 
+[000:00:00:00.803.709.400][Info] 	Adapter 0: Radeon RX 560 Series
+[000:00:00:00.803.774.200][Info] 	  Dedicated VRAM: 4274225152
+[000:00:00:00.803.825.300][Info] 	  Shared VRAM:    4133660672
+[000:00:00:00.803.846.400][Info] 	  PCI ID:         1002:67ef
+[000:00:00:00.804.260.500][Info] 	  Driver Version: 26.20.12028.2
+[000:00:00:00.804.426.200][Info] 	  output 0: pos={0, 0}, size={1600, 900}, attached=true, refresh=60, name=HP 2009
+[000:00:00:00.808.133.900][Info] Loading up D3D11 on adapter Radeon RX 560 Series (0)
+[000:00:00:00.868.855.900][Info] D3D11 loaded successfully, feature level used: b000
+[000:00:00:00.868.897.800][Info] DXGI increase maximum frame latency success
+[000:00:00:00.868.926.600][Debug] set_priority: Failed to set process priority class: -1073741790
+[000:00:00:00.868.938.200][Info] D3D11 GPU priority setup failed (not admin?)
+[000:00:00:01.567.605.500][Info] ---------------------------------
+[000:00:00:01.567.673.100][Info] video settings reset:
+[000:00:00:01.567.673.100][Info] 	base resolution:   1600x900
+[000:00:00:01.567.673.100][Info] 	output resolution: 1280x720
+[000:00:00:01.567.673.100][Info] 	downscale filter:  Bicubic
+[000:00:00:01.567.673.100][Info] 	fps:               30/1
+[000:00:00:01.567.673.100][Info] 	format:            NV12
+[000:00:00:01.567.673.100][Info] 	YUV mode:          601/Partial
+[000:00:00:01.568.208.900][Info] NV12 texture support enabled
+[000:00:00:01.571.787.800][Debug] ---------------------------------
+[000:00:00:01.582.628.800][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/chrome_elf.dll' not found, loading of module failed
+[000:00:00:01.582.681.400][Debug] ---------------------------------
+[000:00:00:01.584.900.500][Debug] Loading module: coreaudio-encoder.dll
+[000:00:00:01.591.770.400][Debug] [CoreAudio encoder]: Failed loading library 'CoreAudioToolbox.dll'
+[000:00:00:01.591.822.800][Warning] [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+[000:00:00:01.591.855.300][Debug] ---------------------------------
+[000:00:00:01.597.236.800][Debug] Loading module: enc-amf.dll
+[000:00:00:01.607.570.700][Debug] [AMF] <obs_module_load> Loading...
+[000:00:00:01.670.376.700][Error] [AMF] The detected AMF runtime is too old, please update your drivers.
+[000:00:00:01.670.376.700][Error] [AMF] AMF Runtime is outdated.
+[000:00:00:01.728.210.000][Error] [AMF] AMF Test failed due to one or more errors.
+[000:00:00:01.728.306.900][Warning] Failed to initialize module 'enc-amf.dll'
+[000:00:00:01.728.387.200][Debug] ---------------------------------
+[000:00:00:01.760.865.000][Debug] Loading module: facemask-plugin.dll
+[000:00:00:01.768.697.600][Debug] ---------------------------------
+[000:00:00:01.774.839.300][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/facemask_AVX.dll' not found, loading of module failed
+[000:00:00:01.774.920.600][Debug] ---------------------------------
+[000:00:00:01.782.855.200][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/facemask_NO_AVX.dll' not found, loading of module failed
+[000:00:00:01.782.908.300][Debug] ---------------------------------
+[000:00:00:01.785.635.500][Debug] Loading module: image-source.dll
+[000:00:00:01.795.540.300][Debug] ---------------------------------
+[000:00:00:01.965.957.400][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libcef.dll' not found, loading of module failed
+[000:00:00:01.966.064.000][Debug] ---------------------------------
+[000:00:00:01.972.285.400][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libEGL.dll' not found, loading of module failed
+[000:00:00:01.972.334.400][Debug] ---------------------------------
+[000:00:00:02.006.803.700][Debug] Required module function 'obs_module_load' in module 'C:/Program Files/Streamlabs OBS/resources/app.asar.unpacked/node_modules/obs-studio-node/obs-plugins/64bit/libGLESv2.dll' not found, loading of module failed
+[000:00:00:02.006.882.700][Debug] ---------------------------------
+[000:00:00:02.009.555.400][Debug] Loading module: motion-transition.dll
+[000:00:00:02.009.643.600][Warning] Failed to load 'en-US' text for module: 'motion-transition.dll'
+[000:00:00:02.009.703.800][Debug] ---------------------------------
+[000:00:00:02.015.040.600][Debug] Loading module: obs-browser.dll
+[000:00:00:02.022.034.800][Info] [obs-browser]: Version 2.8.6
+[000:00:00:02.023.669.000][Debug] ---------------------------------
+[000:00:00:02.039.261.400][Debug] Loading module: obs-ffmpeg.dll
+[000:00:00:02.068.562.000][Debug] ---------------------------------
+[000:00:00:02.072.565.500][Debug] Loading module: obs-filters.dll
+[000:00:00:02.080.529.700][Debug] ---------------------------------
+[000:00:00:02.082.900.900][Debug] Loading module: obs-ndi.dll
+[000:00:00:02.089.409.200][Info] [obs-ndi] hello ! (version 4.7.1)
+[000:00:00:02.089.442.100][Error] [obs-ndi] Error when loading the library.
+[000:00:00:02.089.453.100][Warning] Failed to initialize module 'obs-ndi.dll'
+[000:00:00:02.089.504.700][Debug] ---------------------------------
+[000:00:00:02.099.896.700][Debug] Loading module: obs-outputs.dll
+[000:00:00:02.109.411.800][Debug] ---------------------------------
+[000:00:00:02.111.663.200][Debug] Loading module: obs-qsv11.dll
+[000:00:00:02.368.622.100][Debug] ---------------------------------
+[000:00:00:02.372.459.400][Debug] Loading module: obs-text.dll
+[000:00:00:02.380.219.700][Debug] ---------------------------------
+[000:00:00:02.382.462.700][Debug] Loading module: obs-transitions.dll
+[000:00:00:02.388.476.900][Debug] ---------------------------------
+[000:00:00:02.390.846.200][Debug] Loading module: obs-virtualoutput.dll
+[000:00:00:02.390.967.200][Warning] Failed to load 'en-US' text for module: 'obs-virtualoutput.dll'
+[000:00:00:02.391.145.100][Debug] output 'VirtualOutput' (virtual_output) created
+[000:00:00:02.391.167.800][Debug] ---------------------------------
+[000:00:00:02.395.700.700][Debug] Loading module: obs-vst.dll
+[000:00:00:02.401.194.400][Debug] ---------------------------------
+[000:00:00:02.403.425.800][Debug] Loading module: obs-x264.dll
+[000:00:00:02.410.086.500][Debug] ---------------------------------
+[000:00:00:02.412.358.100][Debug] Loading module: rtmp-services.dll
+[000:00:00:02.427.887.100][Debug] ---------------------------------
+[000:00:00:02.433.913.700][Debug] Loading module: text-freetype2.dll
+[000:00:00:02.440.907.100][Debug] ---------------------------------
+[000:00:00:02.443.905.000][Debug] Loading module: vlc-video.dll
+[000:00:00:02.449.625.000][Info] Couldn't find VLC installation, VLC video source disabled
+[000:00:00:02.449.661.200][Debug] ---------------------------------
+[000:00:00:02.451.686.600][Debug] Loading module: win-capture.dll
+[000:00:00:02.469.623.300][Debug] ---------------------------------
+[000:00:00:02.472.146.400][Debug] Loading module: win-decklink.dll
+[000:00:00:02.485.041.300][Warning] A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+[000:00:00:02.486.178.700][Info] No blackmagic support
+[000:00:00:02.486.218.200][Debug] Failed to start search for DeckLink devices
+[000:00:00:02.486.234.100][Debug] ---------------------------------
+[000:00:00:02.490.431.500][Debug] Loading module: win-dshow.dll
+[000:00:00:02.504.599.100][Debug] ---------------------------------
+[000:00:00:02.506.688.200][Debug] Loading module: win-mf.dll
+[000:00:00:02.506.741.200][Debug] ---------------------------------
+[000:00:00:02.518.794.900][Debug] Loading module: win-openvr.dll
+[000:00:00:02.545.466.000][Debug] ---------------------------------
+[000:00:00:02.547.411.300][Debug] Loading module: win-wasapi.dll
+[000:00:00:02.560.241.600][Debug] ---------------------------------
+[000:00:00:02.566.551.300][Debug] Loading module: enc-amf
+[000:00:00:02.577.948.100][Debug] [AMF] <obs_module_load> Loading...
+[000:00:00:03.087.846.200][Debug] [AMF] <Plugin::AMD::AMF::AMF> Initializing...
+[000:00:00:03.089.995.200][Debug] [AMF] <Plugin::AMD::AMF::AMF> Loaded 'amfrt64.dll'.
+[000:00:00:03.090.093.400][Debug] [AMF] <Plugin::AMD::AMF::AMF> AMF Library initialized.
+[000:00:00:03.090.816.500][Debug] [AMF Runtime] [12:28:18.059][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.090.906.200][Info] [AMF] Version 2.5.1 loaded (Compiled: 1.4.9.0, Runtime: 1.4.12.0, Library: 1;4;12;0;19.20;201908161138;CL#1984516).
+[000:00:00:03.090.920.800][Debug] [AMF] <Plugin::AMD::AMF::AMF> Initialized.
+[000:00:00:03.103.184.500][Debug] [AMF Runtime] [12:28:18.071][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.103.257.300][Debug] [AMF] [Capability Manager] Testing Direct3D 11 API...
+[000:00:00:03.144.297.900][Debug] [AMF Runtime] [12:28:18.113][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.156.243.100][Debug] [AMF] <Id: 1> Initialized.
+[000:00:00:03.158.907.400][Debug] [AMF] <Id: 1> Finalized.
+[000:00:00:03.187.522.600][Debug] [AMF Runtime] [12:28:18.156][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.205.487.000][Debug] [AMF] <Id: 2> Initialized.
+[000:00:00:03.206.948.900][Debug] [AMF] <Id: 2> Finalized.
+[000:00:00:03.206.990.500][Info] [AMF] [Capability Manager] Testing Direct3D 11 Adapter 'Radeon RX 560 Series (VEN_1002/DEV_67ef/SUB_e3481da2/REV_00e5)':
+[000:00:00:03.206.990.500][Info]   H264/AVC: Supported
+[000:00:00:03.206.990.500][Info]   H265/HEVC: Supported
+[000:00:00:03.206.990.500][Info] 
+[000:00:00:03.207.018.600][Debug] [AMF] [Capability Manager] Testing Direct3D 9 API...
+[000:00:00:03.235.854.400][Debug] [AMF Runtime] [12:28:18.204][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.237.872.700][Debug] [AMF] <Id: 3> Initialized.
+[000:00:00:03.238.279.400][Debug] [AMF] <Id: 3> Finalized.
+[000:00:00:03.266.459.500][Debug] [AMF Runtime] [12:28:18.234][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:03.270.389.700][Debug] [AMF] <Id: 4> Initialized.
+[000:00:00:03.270.929.700][Debug] [AMF] <Id: 4> Finalized.
+[000:00:00:03.270.959.200][Info] [AMF] [Capability Manager] Testing Direct3D 9 Adapter 'Radeon RX 560 Series [\\.\DISPLAY1] (VEN_1002/DEV_67ef/SUB_e3481da2/REV_00e5)':
+[000:00:00:03.270.959.200][Info]   H264/AVC: Supported
+[000:00:00:03.270.959.200][Info]   H265/HEVC: Supported
+[000:00:00:03.270.959.200][Info] 
+[000:00:00:03.271.272.800][Debug] [AMF] [H264/AVC] Registered.
+[000:00:00:03.271.297.100][Debug] [AMF] [H265/HEVC] Registered.
+[000:00:00:03.271.305.700][Debug] [AMF] <obs_module_load> Loaded.
+[000:00:00:03.288.807.200][Debug] service 'default_service' (rtmp_common) created
+[000:00:00:03.303.386.500][Debug] output 'simple_stream' (rtmp_output) created
+[000:00:00:03.303.514.300][Debug] output 'simple_file_output' (ffmpeg_muxer) created
+[000:00:00:03.303.713.500][Debug] output 'ReplayBuffer' (replay_buffer) created
+[000:00:00:03.303.766.400][Debug] encoder 'streaming_h264' (obs_x264) created
+[000:00:00:03.303.840.100][Debug] AAC encoder bitrate mapping:
+[000:00:00:03.303.840.100][Debug] 	 64 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	 96 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	128 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	160 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	192 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	224 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	256 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	288 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.840.100][Debug] 	320 kbit/s: 'FFmpeg Default AAC Encoder' (ffmpeg_aac)
+[000:00:00:03.303.918.300][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:03.304.049.000][Debug] encoder 'streaming_h264' (amd_amf_h264) created
+[000:00:00:03.983.965.800][Debug] obs_encoder_update: Null 'encoder' parameter
+[000:00:00:03.984.050.500][Debug] encoder 'simple_h264_recording' (obs_x264) created
+[000:00:00:03.984.066.300][Info] ---------------------------------
+[000:00:00:03.984.076.400][Info] audio settings reset:
+[000:00:00:03.984.076.400][Info] 	samples per sec: 44100
+[000:00:00:03.984.076.400][Info] 	speakers:        2
+[000:00:00:03.990.827.000][Info] About to reset the video context
+[000:00:00:04.039.215.200][Info] ---------------------------------
+[000:00:00:04.039.257.600][Info] video settings reset:
+[000:00:00:04.039.257.600][Info] 	base resolution:   1600x900
+[000:00:00:04.039.257.600][Info] 	output resolution: 1280x720
+[000:00:00:04.039.257.600][Info] 	downscale filter:  Bicubic
+[000:00:00:04.039.257.600][Info] 	fps:               30/1
+[000:00:00:04.039.257.600][Info] 	format:            NV12
+[000:00:00:04.039.257.600][Info] 	YUV mode:          601/Partial
+[000:00:00:04.039.764.100][Info] NV12 texture support enabled
+[000:00:00:04.043.797.300][Debug] encoder 'adv_aac0' (ffmpeg_aac) created
+[000:00:00:04.043.875.600][Debug] encoder 'adv_aac1' (ffmpeg_aac) created
+[000:00:00:04.043.910.900][Debug] encoder 'adv_aac2' (ffmpeg_aac) created
+[000:00:00:04.043.930.600][Debug] encoder 'adv_aac3' (ffmpeg_aac) created
+[000:00:00:04.043.948.100][Debug] encoder 'adv_aac4' (ffmpeg_aac) created
+[000:00:00:04.043.964.200][Debug] encoder 'adv_aac5' (ffmpeg_aac) created
+[000:00:00:04.043.989.800][Info] Audio monitoring device:
+[000:00:00:04.043.989.800][Info] 	name: Default
+[000:00:00:04.043.989.800][Info] 	id: default
+[000:00:00:04.107.934.200][Warning] Failed to load 'en-US' text for module: 'obs-virtualoutput.dll'
+[000:00:00:04.110.407.100][Warning] Failed to load 'en-US' text for module: 'motion-transition.dll'
+[000:00:00:04.160.567.400][Debug] encoder 'streaming_h264' (amd_amf_h264) created
+[000:00:00:04.160.596.200][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:04.186.125.100][Debug] [AMF Runtime] [12:28:19.154][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:04.197.814.100][Debug] [AMF] <Id: 5> Initialized.
+[000:00:00:04.198.626.000][Debug] [AMF] <Id: 5> Finalized.
+[000:00:00:04.222.167.500][Debug] [AMF Runtime] [12:28:19.191][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:04.234.816.600][Debug] [AMF] <Id: 6> Initialized.
+[000:00:00:04.235.216.500][Debug] [AMF] <Id: 6> Finalized.
+[000:00:00:04.242.755.000][Debug] encoder 'recording_h264' (obs_x264) created
+[000:00:00:04.242.797.400][Debug] encoder 'simple_h264_recording' destroyed
+[000:00:00:04.251.106.600][Info] [WASAPISource::WASAPISource] Device 'does_not_exist' not found.  Waiting for device
+[000:00:00:04.251.194.900][Debug] source '5e8d7493-60e4-4cad-a7bd-fe5ed60423ea' (wasapi_input_capture) created
+[000:00:00:04.252.920.400][Info] [WASAPISource::WASAPISource] Device 'does_not_exist' not found.  Waiting for device
+[000:00:00:04.253.056.000][Debug] source '754d772a-5bd4-4881-ae4d-d43cade5908d' (wasapi_output_capture) created
+[000:00:00:04.254.306.000][Debug] source 'ff8a32a3-6637-4c92-8d6b-765785a1c990' (dshow_input) created
+[000:00:00:04.255.120.300][Error] Activate device 'ff8a32a3-6637-4c92-8d6b-765785a1c990'
+[000:00:00:04.277.281.400][Warning] ff8a32a3-6637-4c92-8d6b-765785a1c990: DecodeDeviceId failed
+[000:00:00:04.277.336.800][Warning] ff8a32a3-6637-4c92-8d6b-765785a1c990: Video configuration failed
+[000:00:00:04.295.610.400][Debug] source '5e8d7493-60e4-4cad-a7bd-fe5ed60423ea' destroyed
+[000:00:00:04.296.122.000][Debug] source '754d772a-5bd4-4881-ae4d-d43cade5908d' destroyed
+[000:00:00:04.296.566.500][Debug] source 'ff8a32a3-6637-4c92-8d6b-765785a1c990' destroyed
+[000:00:00:04.832.915.100][Debug] encoder 'streaming_h264' (amd_amf_h264) created
+[000:00:00:04.832.941.700][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:04.861.957.600][Debug] [AMF Runtime] [12:28:19.830][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:04.875.083.500][Debug] [AMF] <Id: 7> Initialized.
+[000:00:00:04.875.531.900][Debug] [AMF] <Id: 7> Finalized.
+[000:00:00:04.901.542.200][Debug] [AMF Runtime] [12:28:19.870][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:04.917.780.800][Debug] [AMF] <Id: 8> Initialized.
+[000:00:00:04.919.185.100][Debug] [AMF] <Id: 8> Finalized.
+[000:00:00:04.919.750.500][Debug] encoder 'recording_h264' (obs_x264) created
+[000:00:00:04.919.768.200][Debug] encoder 'recording_h264' destroyed
+[000:00:00:04.940.669.800][Info] About to reset the video context
+[000:00:00:04.978.106.100][Info] ---------------------------------
+[000:00:00:04.978.150.800][Info] video settings reset:
+[000:00:00:04.978.150.800][Info] 	base resolution:   1600x900
+[000:00:00:04.978.150.800][Info] 	output resolution: 1280x720
+[000:00:00:04.978.150.800][Info] 	downscale filter:  Bicubic
+[000:00:00:04.978.150.800][Info] 	fps:               30/1
+[000:00:00:04.978.150.800][Info] 	format:            NV12
+[000:00:00:04.978.150.800][Info] 	YUV mode:          601/Partial
+[000:00:00:04.978.672.600][Info] NV12 texture support enabled
+[000:00:00:04.985.261.200][Debug] encoder 'streaming_h264' (amd_amf_h264) created
+[000:00:00:04.985.290.400][Debug] encoder 'streaming_h264' destroyed
+[000:00:00:05.011.852.000][Debug] [AMF Runtime] [12:28:19.980][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:05.027.557.200][Debug] [AMF] <Id: 9> Initialized.
+[000:00:00:05.027.988.700][Debug] [AMF] <Id: 9> Finalized.
+[000:00:00:05.060.902.300][Debug] [AMF Runtime] [12:28:20.029][TraceImpl]    Error: ..\..\..\..\..\runtime\src\core\debug\TraceImpl.cpp(615):Assertion failed:result
+[000:00:00:05.077.669.800][Debug] [AMF] <Id: 10> Initialized.
+[000:00:00:05.078.090.800][Debug] [AMF] <Id: 10> Finalized.
+[000:00:00:05.078.670.200][Debug] encoder 'recording_h264' (obs_x264) created
+[000:00:00:05.078.686.500][Debug] encoder 'recording_h264' destroyed
+[000:00:00:05.090.103.700][Debug] source '05477b1c-3ebd-4dfb-9b35-cdb334dc3037' (cut_transition) created
+[000:00:00:05.098.356.700][Info] [window-capture: 'window_capture_b11f1b56-dae1-4d8b-8ab7-da7ef2315d94'] update settings:
+[000:00:00:05.098.356.700][Info] 	executable: chrome.exe
+[000:00:00:05.098.404.000][Debug] 	class:      Chrome_WidgetWin_1
+[000:00:00:05.098.414.200][Debug] source 'window_capture_b11f1b56-dae1-4d8b-8ab7-da7ef2315d94' (window_capture) created
+[000:00:00:05.099.686.600][Debug] source 'game_capture_322c6c20-8f84-4290-8575-b12de389c38e' (game_capture) created
+[000:00:00:05.100.814.300][Debug] source 'dshow_input_e3d3d602-f464-4b30-aceb-0fe2224d9de1' (dshow_input) created
+[000:00:00:05.101.326.100][Error] Activate device 'dshow_input_e3d3d602-f464-4b30-aceb-0fe2224d9de1'
+[000:00:00:05.127.277.800][Debug] private source 'Chroma Key' (chroma_key_filter) created
+[000:00:00:05.128.231.400][Debug] - filter 'Chroma Key' (chroma_key_filter) added to source 'dshow_input_e3d3d602-f464-4b30-aceb-0fe2224d9de1'
+[000:00:00:05.163.937.000][Debug] DShow: Video media type changed
+[000:00:00:05.173.404.100][Info] ---------------------------------
+[000:00:00:05.173.462.800][Info] [DShow Device: 'dshow_input_e3d3d602-f464-4b30-aceb-0fe2224d9de1'] settings updated: 
+[000:00:00:05.173.462.800][Info] 	video device: DroidCam Source 3
+[000:00:00:05.173.462.800][Info] 	video path: \\?\root#media#0000#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\global
+[000:00:00:05.173.462.800][Info] 	resolution: 640x480
+[000:00:00:05.173.462.800][Info] 	flip: 0
+[000:00:00:05.173.462.800][Info] 	fps: 30.00 (interval: 333333)
+[000:00:00:05.173.462.800][Info] 	format: XRGB
+[000:00:00:05.174.975.200][Warning] DShow: HDevice::ConnectPins: failed to connect pins (0x80040207): 
+[000:00:00:05.199.165.500][Info] WASAPI: Device 'Altavoces (Realtek(R) Audio)' [48000 Hz] initialized
+[000:00:00:05.199.297.000][Info] WASAPI: will register for notification callbacks on default audio device change
+[000:00:00:05.204.900.100][Debug] source 'wasapi_output_capture_dfd2d829-4356-49d6-922d-485685b890d9' (wasapi_output_capture) created
+[000:00:00:05.259.355.700][Debug] DShow: Loaded filters:
+[000:00:00:05.259.421.500][Debug] DShow: 	Capture Filter
+[000:00:00:05.259.433.800][Debug] DShow: 	Color Space Converter
+[000:00:00:05.259.444.700][Debug] DShow: 	Smart Tee
+[000:00:00:05.259.455.100][Debug] DShow: 	Video Filter
+[000:00:00:05.271.121.300][Info] WASAPI: Device 'Micrófono (Realtek(R) Audio)' [48000 Hz] initialized
+[000:00:00:05.271.176.500][Debug] source 'wasapi_input_capture_caa794d1-04a0-47fe-8fed-9ce76ef6b2a4' (wasapi_input_capture) created
+[000:00:00:05.294.064.800][Debug] source 'browser_source_bebe2230-858b-4e38-9f3b-6b64c671a8e9' (browser_source) created
+[000:00:00:05.311.303.000][Debug] source 'browser_source_b1850b8e-8be5-4fc5-a313-552455d8673e' (browser_source) created
+[000:00:00:05.383.464.400][Debug] source 'scene_e33f5193-c160-48a1-8ad7-efdb45cf0271' (scene) created
+[000:00:00:05.387.859.000][Debug] source 'scene_fc5fde0f-116f-43a8-af6d-3e8f548635a1' (scene) created
+[000:00:00:05.420.024.400][Debug] source 'f0977fd2-917f-43ad-8076-56d80f925a7f' (cut_transition) created
+[000:00:00:05.692.611.700][Info] CreateBrowserSync - start
+[000:00:00:05.845.931.600][Info] CreateBrowserSync - success
+[000:00:00:05.845.977.200][Info] CreateBrowserSync - end
+[000:00:00:05.848.004.000][Info] CreateBrowserSync - start
+[000:00:00:05.852.744.200][Info] CreateBrowserSync - success
+[000:00:00:05.852.797.900][Info] CreateBrowserSync - end
